@@ -2,6 +2,7 @@
 
 ![soda lab](https://wiki.huihoo.com/images/0/08/Soda-lab.png)
 
+![simulator](https://wiki.huihoo.com/images/0/00/Autonomous-driving-simulator.png)
 ### Soda Lab
 苏打出行创新实验室
 
@@ -11,6 +12,21 @@ AI、Big data、Blockchain
 * AI（生产力）
 * 大数据（生产资料）
 * 区块链（生产关系）
+
+### 自动驾驶
+引用Waymo官网的口号：We're build the world's most experienced driver（Waymo的目标是创造世界上最好的司机）。
+
+“Waymo的使命是让道路对每一个人都更安全，创造一个没有疲倦、醉驾和分心的司机的世界”。
+
+自动驾驶是一项值得终身投入的事业！
+
+Waymo无人车的两件秘密武器：模拟软件Carcraft，秘密基地Castle。Carcraft与Castle相互配合，形成了一座属于Waymo的城市，虚实结合快速模拟不同场景。
+
+自动驾驶模拟仿真软件是Soda Lab的研发重点。
+
+### 开源项目
+* sodabot：苏打机器人，实践AI和VA车载语言助手、聊天Bot、告警Bot等等，每一个设备都住着一位Bot。
+* sodasim：苏打仿真，机器人、AI、自动驾驶对模拟仿真的需求非常巨大。仿真，也是自动驾驶商业化落地的重要安全保证。基于Unity和虚幻引擎构建模拟仿真系统是首选思路，微软AirSim就是基于Unreal Engine和Unity构建的，SodaSim based on AirSim。
 
 ### 实验环境
 * Azure
@@ -56,3 +72,9 @@ Unity也是模拟仿真的重要平台，[AirSim on Unity：自动驾驶汽车�
 
 [虚幻引擎](https://www.unrealengine.com)是自动驾驶模拟仿真的重要平台，微软AirSim就是基于UE4开发的。
 
+### 苏打实验室
+![lab](https://wiki.huihoo.com/images/3/39/Sodalab-01.jpg)
+
+![lab02](https://wiki.huihoo.com/images/7/70/Sodalab-02.jpg)
+
+![jetson](https://wiki.huihoo.com/images/f/fd/Sodalab-jetson03.jpg)
