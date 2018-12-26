@@ -25,8 +25,8 @@ Waymo无人车的两件秘密武器：模拟软件Carcraft，秘密基地Castle�
 自动驾驶模拟仿真软件是Soda Lab的研发重点。
 
 ### 开源项目
-* sodabot：苏打机器人，实践AI和VA车载语言助手、聊天Bot、告警Bot等等，每一个设备都住着一位Bot。
-* sodasim：苏打仿真，机器人、AI、自动驾驶对模拟仿真的需求非常巨大。仿真，也是自动驾驶商业化落地的重要安全保证。基于Unity和虚幻引擎构建模拟仿真系统是首选思路，微软AirSim就是基于Unreal Engine和Unity构建的，SodaSim based on AirSim。
+* OpenBot：开放机器人，实践AI和VA车载语言助手、聊天Bot、告警Bot、虚拟助手等等，每一个设备都住着一位Bot。
+* OpenSim：开放仿真，机器人、AI、自动驾驶对模拟仿真的需求非常巨大。仿真，也是自动驾驶商业化落地的重要安全保证。基于Unity和虚幻引擎构建模拟仿真系统是首选思路，微软AirSim就是基于Unreal Engine和Unity构建的，OpenSim based on AirSim。
 
 ### 实验环境
 * Azure
