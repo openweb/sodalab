@@ -78,3 +78,5 @@ Unity也是模拟仿真的重要平台，[AirSim on Unity：自动驾驶汽车�
 ![lab02](https://wiki.huihoo.com/images/7/70/Sodalab-02.jpg)
 
 ![jetson](https://wiki.huihoo.com/images/f/fd/Sodalab-jetson03.jpg)
+
+![nio](https://wiki.huihoo.com/images/3/3c/Nio.jpg) 以后家里和办公室都可能有一辆汽车模拟驾驶舱，未来我们也会在实验室搭建这样的环境。(图片拍自蔚来汽车体验店)
